@@ -2,5 +2,6 @@
 
 Arquivo de aprendizagem.
 
-Nome: Nathan Cavalcante Silva.
+Nome: Nathan.
+Curso back-end
 
